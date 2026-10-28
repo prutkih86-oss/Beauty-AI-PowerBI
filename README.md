@@ -42,7 +42,7 @@ Key analytical objectives:
 
 ## Dashboard 1 — Revenue Overview
 
-![Revenue Overview](Revenue_Overview.jpg)
+![Revenue Overview](Revenue_Overviev.jpg)
 
 This dashboard provides an overview of booking performance, platform earnings, and revenue distribution.
 
